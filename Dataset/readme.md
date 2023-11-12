@@ -1,3 +1,3 @@
-Download the dataset from here and keep it here.
+Download the dataset from https://www.kaggle.com/datasets/alexanderyyy/mnist-png and keep it here.
 
-https://www.kaggle.com/datasets/alexanderyyy/mnist-png
+
